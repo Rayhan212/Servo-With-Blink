@@ -1,2 +1,2 @@
-# Servo-With-Blink
-Library Servo 
+# Infrared-With-Blink
+Sensor Infrared 
